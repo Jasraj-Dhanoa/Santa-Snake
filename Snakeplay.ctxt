@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Snakeplay
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=speed
+comment2.target=void\ setSpeed(int)
+comment3.params=speed\ snakeheadcolor\ snakebodycolor
+comment3.target=Snakeplay(int,\ java.awt.Color,\ java.awt.Color)
+numComments=4
